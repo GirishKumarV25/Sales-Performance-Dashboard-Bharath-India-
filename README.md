@@ -25,7 +25,7 @@ This Tableau dashboard presents a comprehensive view of sales performance across
 - Regional performance benchmarking
 - Category-level profitability analysis
 - Portfolio showcase for data storytelling and dashboard design
----
+
 ## 📷 Dashboard Preview
 ![Dashboard Overview](dashboard_preview.png)
 
