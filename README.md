@@ -28,7 +28,7 @@ This Tableau dashboard presents a comprehensive view of sales performance across
 
 ## 📷 Dashboard Preview
 ![Dashboard Overview](dashboard_preview.png)
-
+---
 ## 👤 Author
 - Created by **[Girish Kumar V]**
 - 📧 Contact: [girishaquarius@gmail.com]
