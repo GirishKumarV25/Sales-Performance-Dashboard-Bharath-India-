@@ -1,7 +1,7 @@
 ## 📊 Sales Performance Dashboard (Bharath / India)
 Overview
 This Tableau dashboard presents a comprehensive view of sales performance across India, enabling executives and analysts to monitor key metrics, identify trends, and make data-driven decisions. It combines interactive visuals, regional insights, and category-level breakdowns to deliver a clear and actionable story.
----
+
 ## 📊 Features
 - Top KPIs (auto-calculated from full dataset
 - 💰 Total Sales
@@ -28,7 +28,7 @@ This Tableau dashboard presents a comprehensive view of sales performance across
 ---
 ## 📷 Dashboard Preview
 ![Dashboard Overview](dashboard_preview.png)
----
+
 ## 👤 Author
 - Created by **[Girish Kumar V]**
 - 📧 Contact: [girishaquarius@gmail.com]
